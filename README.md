@@ -1,5 +1,8 @@
 # Ex.No: 01 PLOT A TIME SERIES DATA
-###  Date: 16-02-2024
+
+## Developed by : M.JAYACHANDRAN
+## Register number : 212222240038
+## Date: 22/08/24
 
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
